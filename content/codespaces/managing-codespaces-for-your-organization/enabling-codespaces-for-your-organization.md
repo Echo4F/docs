@@ -28,7 +28,7 @@ To use codespaces in your organization, you must do the following:
 - [Set a spending limit](/billing/managing-billing-for-github-codespaces/managing-spending-limits-for-codespaces)
 
 By default, a codespace can only access the repository from which it was created. If you want codespaces in your organization to be able to access other organization repositories that the codespace creator can access, see "[Managing access and security for {% data variables.product.prodname_codespaces %}](/codespaces/managing-codespaces-for-your-organization/managing-access-and-security-for-your-organizations-codespaces)."
-
+adding codespace
 ## Enable {% data variables.product.prodname_codespaces %} for users in your organization
 
 {% data reusables.profile.access_org %}
