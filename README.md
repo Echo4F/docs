@@ -29,7 +29,7 @@ We use GitHub Discussions to talk about all sorts of topics related to documenta
 If you're having trouble with your GitHub account, contact [Support](https://support.github.com/contact).
 
 That's how you can easily become a member of the GitHub Documentation community. :sparkles:
-
+Support and help fix
 ## READMEs
 
 In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail:
