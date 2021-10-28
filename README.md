@@ -64,3 +64,4 @@ Thanks for all your contributions and efforts towards improving the GitHub docum
 Help fix this
 add token
 add branch3
+   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
